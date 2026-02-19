@@ -1,0 +1,4 @@
+Project Notes:
+
+- This project is a simple web app.
+- Built using HTML, CSS, and JavaScript.
